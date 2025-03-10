@@ -100,24 +100,6 @@ Bu depo, Python programlama dilini sıfırdan öğrenmek isteyenler ve ileri sev
 ---
 
 
-## 🛠️ Nasıl Kullanılır?
-
-1. **Depoyu Klonlayın**:
-   ```bash
-   git clone https://github.com/vahap-18/python-egitim.git
-   cd python-egitim
-   ```
-
-2. **İçerikleri Keşfedin**:
-   - Her bölüm için ayrı klasörler bulunmaktadır.
-   - Her klasörde, o konuyla ilgili notlar, kod örnekleri ve pratik alıştırmalar yer almaktadır.
-
-3. **Pratik Yapın**:
-   - Kod örneklerini çalıştırın ve kendi projelerinizi oluşturun.
-   - Sorularınız veya önerileriniz varsa bana yazabilirsiniz.
-
----
-
 ## 🎯 Hedef Kitle
 
 - Python öğrenmeye yeni başlayanlar.
